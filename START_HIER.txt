@@ -14,3 +14,5 @@ Tourabschluss friert Wertungen ein. Spätere Änderungen an Fahrern, Teams und E
 Nachwuchswerte brauchen Geburtsjahre. Unvollständige Fahrer/Teams werden nicht künstlich mitgerechnet. Ranggleichheit bei gleicher Zeit/Punktzahl wird wie bisher alphabetisch aufgelöst.
 
 Prüfung: JavaScript-Syntax und Berechnungen/Migration/Archiv/Karriere automatisiert geprüft. Kein vollständiger visueller Browsertest möglich, da kein Browser installiert war und der Download fehlschlug.
+
+UPDATE 8.1 – Etappen anlegen repariert. Fehlende Etappentyp-Auswahl ergänzt. Etappenplanung mit km, geschätzter Zeit und Schnitt; automatische Berechnung; Anzeige von Plan und echtem Siegerergebnis. Tests für Öffnen/Anlegen/Bearbeiten/Neuladen und Erhalt von Rennergebnissen bestanden (mit DOM-Testumgebung, kein visueller Browsertest).

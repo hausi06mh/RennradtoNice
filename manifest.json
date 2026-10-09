@@ -1,0 +1,8 @@
+{
+  "name":"Road to Nice 2027",
+  "short_name":"Road to Nice",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#06101d",
+  "theme_color":"#07111f"
+}

@@ -1,0 +1,16 @@
+ROAD TO NICE – Schritt 8
+
+Die index.html ersetzt die bisherige index.html am gleichen Ort (z. B. auf deiner bestehenden GitHub-Pages-Seite). manifest.json ebenfalls übernehmen.
+Vor dem Austausch in der bisherigen App unter Einstellungen ein JSON-Backup exportieren. Der Speicherschlüssel bleibt gleich; bei gleicher Website/Browser bleiben bestehende Daten verfügbar. Auf einem anderen Gerät oder einer anderen Website das Backup importieren.
+
+Schritt 8:
+- Tour öffnen: Nachwuchs (bis 25 im Jahr des Tourstarts), Teamwertung (drei schnellste Fahrer pro Etappe), Etappensiege und Tourabschluss.
+- Radsport-Welt: Tour-Archiv und Fahrerkarrieren mit Trophäen.
+- Fahrer/Team öffnen: eigenes Foto oder Logo hochladen.
+- Start: Trainingsfortschritt und Abfahrtscountdown; Reiseübersicht mit bearbeitbaren Orten und Kartenlinks. Die Übersicht ist schematisch, keine Routennavigation.
+
+Tourabschluss friert Wertungen ein. Spätere Änderungen an Fahrern, Teams und Ergebnissen verändern den Abschluss nicht. Archivierung aufheben und erneut abschließen, wenn du den Abschluss aktualisieren möchtest. Tour löschen entfernt auch deren Archiv und Karriereerfolge.
+
+Nachwuchswerte brauchen Geburtsjahre. Unvollständige Fahrer/Teams werden nicht künstlich mitgerechnet. Ranggleichheit bei gleicher Zeit/Punktzahl wird wie bisher alphabetisch aufgelöst.
+
+Prüfung: JavaScript-Syntax und Berechnungen/Migration/Archiv/Karriere automatisiert geprüft. Kein vollständiger visueller Browsertest möglich, da kein Browser installiert war und der Download fehlschlug.
